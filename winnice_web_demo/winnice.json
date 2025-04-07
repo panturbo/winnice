@@ -1,0 +1,38 @@
+[
+  {
+    "nazwa": "Winnica Jania",
+    "miejscowosc": "Krzyżowice",
+    "wojewodztwo": "opolskie",
+    "lat": 50.8025198,
+    "lng": 17.4707102,
+    "opis": "Nowa winnica z planowanym miejscem dla kamperów. Wkrótce będzie można zatrzymać się między rzędami winorośli i porzeczek.",
+    "welcome_box": "Brak informacji o cenie",
+    "kontakt": "",
+    "dzieci": "W przyszłości planowany plac zabaw.",
+    "link_map": "http://g.page/Winnica-Jania?share"
+  },
+  {
+    "nazwa": "Winnica Niemczańska",
+    "miejscowosc": "Niemcza",
+    "wojewodztwo": "dolnośląskie",
+    "lat": 50.7136777,
+    "lng": 16.8416073,
+    "opis": "Winnica i hotel z ofertą SPA. Można podłączyć prąd, zrzucić szarą wodę, skorzystać ze SPA.",
+    "welcome_box": "200 zł/dobę (2 osoby, wino, prąd, woda, spa)",
+    "kontakt": "info@hotelniemcza.pl",
+    "dzieci": "Plac zabaw na miejscu.",
+    "link_map": "http://g.page/hotelniemcza?share"
+  },
+  {
+    "nazwa": "Winnica Alvarium",
+    "miejscowosc": "Ostaszów",
+    "wojewodztwo": "dolnośląskie",
+    "lat": 51.5506515,
+    "lng": 15.8305079,
+    "opis": "Kameralna rodzinna winnica. Degustacje, sauna, miód z pasieki.",
+    "welcome_box": "100 zł/dobę (kamper + 4 osoby, prąd, woda, toaleta)",
+    "kontakt": "winnicaalvarium@gmail.com",
+    "dzieci": "Cisza i spokój – brak infrastruktury dziecięcej.",
+    "link_map": "https://goo.gl/maps/LWr8xzDFRBEZcPmd9"
+  }
+]
